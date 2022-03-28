@@ -1,2 +1,3 @@
 Name: Ariag G, Food Lover!
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
